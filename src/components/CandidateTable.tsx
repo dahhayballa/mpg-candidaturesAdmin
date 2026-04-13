@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import {
   FileText,
-  GraduationCap,
   Pencil,
   Trash2,
   ChevronLeft,

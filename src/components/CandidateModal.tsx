@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { X, Save, UserPlus, ChevronRight, ChevronLeft, Check, ClipboardList, User, FileText, BarChart, Info } from 'lucide-react'
+import { X, Save, UserPlus, ChevronRight, ChevronLeft, Check, ClipboardList, User, FileText, BarChart } from 'lucide-react'
 import type { Candidate } from '../types'
 
 interface CandidateModalProps {
